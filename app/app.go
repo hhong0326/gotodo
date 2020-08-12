@@ -7,9 +7,10 @@ import (
 	"strconv"
 	"strings"
 
+	"web7_todoweb/model"
+
 	"github.com/gorilla/mux"
 	"github.com/gorilla/sessions"
-	"github.com/hhong0326/gotodo/model"
 	"github.com/unrolled/render"
 	"github.com/urfave/negroni"
 )

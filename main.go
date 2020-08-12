@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/hhong0326/gotodo/app"
+	"web7_todoweb/app"
 )
 
 func main() { // package보다 main에 있는게 좋다

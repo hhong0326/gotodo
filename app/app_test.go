@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/hhong0326/gotodo/model"
+	"web7_todoweb/model"
 
 	"github.com/stretchr/testify/assert"
 )
