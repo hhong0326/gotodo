@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"web7_todoweb/model"
+	"github.com/hhong0326/gotodo/model"
 
 	"github.com/gorilla/mux"
 	"github.com/gorilla/sessions"
